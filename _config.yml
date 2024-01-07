@@ -3,6 +3,13 @@ plugins:
 - jekyll-remote-theme # add this line to the plugins list if you already have one
 
 title: [Boris Albar]
-description: [Portfolio]
+description: I am a data scientist with over 7 years of experience and
+have a particular interest in applying deep learning to various domains,
+from computer vision and NLU to time series analysis. In a previous life,
+I was interested in <a href="https://dblp.org/pid/137/5048.html">studying the structure of specific classes of graphs and matroids</a>.
+<br><br>
+<a href="https://www.linkedin.com/in/boris-albar/">View My LinkedIn Profile</a>
+<br>
+<a href="https://github.com/b-albar">View My GitHub Profile</a>
 email: boris.albar@protonmail.com
 show_downloads: "false"
