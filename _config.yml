@@ -3,7 +3,7 @@ plugins:
 - jekyll-remote-theme # add this line to the plugins list if you already have one
 
 title: [Boris Albar]
-description:
+description: >
 <p align="center">
   <a href="">Resume</a> |
   <a href="https://www.linkedin.com/in/boris-albar/">LinkedIn</a> |
