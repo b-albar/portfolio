@@ -3,7 +3,7 @@ plugins:
 - jekyll-remote-theme # add this line to the plugins list if you already have one
 
 title: [Boris Albar]
-description: <div w3-include-html="description.html"></div>
+description: <link href="description.html" rel="import" />
 
 email: boris.albar@protonmail.com
 show_downloads: "false"
