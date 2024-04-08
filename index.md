@@ -26,7 +26,7 @@ and is freely available on Hugging Face. It was developed in collaboration with 
 
 [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/catie-aq/triton-rust)
 
-Triton-rs i a Rust gRPC client library for [NVIDIA Triton Inference Server](https://github.com/triton-inference-server/server).
+Triton-rs is a Rust gRPC client library for [NVIDIA Triton Inference Server](https://github.com/triton-inference-server/server).
 It also supports passing tensor through the system shared memory for fast local inference.
 
 ---
