@@ -6,7 +6,7 @@
 
 FAT5 is an implementation of T5 in PyTorch with an UL2 objective optimized for GPGPU.
 It uses custom CUDA kernels and specific optimizations to increase throughput and reduce memory usage for both training and inference by a factor of 4.
-This code was used to pretrained several models in French in sizes ranging from 147M parameters to 1B parameters using 2 Nvidia A100. Weights will soon be released on Hugging Face
+This code was used to pretrained several models in French in sizes ranging from 147M parameters to 2.5B parameters using only 2 Nvidia A100 from 300M documents from [CulturaX-fr](https://huggingface.co/datasets/uonlp/CulturaX). Weights will soon be released on Hugging Face as well as adapted Flan-T5 weights.
 
 ---
 
