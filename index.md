@@ -1,5 +1,31 @@
 # Portfolio
 ---
+
+## Machete
+
+[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/b-albar/machete)
+
+Machete provides a simple and optimized way to design megakernels in CuteDSL, speeding up inference and training of models.
+
+---
+
+## Cutedsl-trace
+
+[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/b-albar/cutedsl-trace)
+
+A GPU kernel tracing library for CuteDSL providing  nanosecond-resolution timestamps with low-overhead.
+
+---
+
+## Techne
+
+[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/b-albar/techne)
+
+**Abstract tool-augmented reinforcement learning framework for LLMs.**
+Techne is a framework to research new distillation and training agentic language models with multi-turn tool use. It features multi-algorithm training (PPO, GRPO), and efficient distributed training.
+
+---
+
 ## FAT5 - T5 with Flash Attention 2
 
 [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/catie-aq/flashT5)
